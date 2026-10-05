@@ -1,0 +1,6 @@
+{
+  "name": "NearShare",
+  "description": "Fast, secure offline peer-to-peer file, contact, APK, and media transfer app powered by Nearby Connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

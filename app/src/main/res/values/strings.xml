@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NearShare</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="search_devices">Searching for nearby devices…</string>
+    <string name="ready_to_receive">Ready to receive files</string>
+    <string name="category_files">Files</string>
+    <string name="category_photos">Photos</string>
+    <string name="category_videos">Videos</string>
+    <string name="category_audio">Audio</string>
+    <string name="category_apps">Apps</string>
+    <string name="category_contacts">Contacts</string>
+</resources>

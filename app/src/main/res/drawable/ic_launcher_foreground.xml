@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top-right sender device icon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M66,30h14c2.2,0 4,1.8 4,4v20c0,2.2 -1.8,4 -4,4H66c-2.2,0 -4,-1.8 -4,-4V34C62,31.8 63.8,30 66,30z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,34h8c0.55,0 1,0.45 1,1v12c0,0.55 -0.45,1 -1,1h-8c-0.55,0 -1,-0.45 -1,-1V35C68,34.45 68.45,34 69,34z" />
+
+    <!-- Bottom-left receiver device icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,50h14c2.2,0 4,1.8 4,4v20c0,2.2 -1.8,4 -4,4H28c-2.2,0 -4,-1.8 -4,-4V54C24,51.8 25.8,50 28,50z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M31,54h8c0.55,0 1,0.45 1,1v12c0,0.55 -0.45,1 -1,1h-8c-0.55,0 -1,-0.45 -1,-1V55C30,54.45 30.45,54 31,54z" />
+
+    <!-- Transfer lightning/arrows connection -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M56,42l-10,12h8l-4,12l14,-14h-8z" />
+</vector>
